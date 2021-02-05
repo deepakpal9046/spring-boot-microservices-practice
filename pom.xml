@@ -5,7 +5,7 @@
 		 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.sivalabs</groupId>
+	<groupId>com.deepak</groupId>
 	<artifactId>spring-boot-microservices-series</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
